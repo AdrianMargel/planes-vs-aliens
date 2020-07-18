@@ -64,10 +64,10 @@ void loadImages(){
   head=loadImage("nyanHead.png");
   foot=loadImage("nyanFoot.png");
   tail1=loadImage("nyanTailF1.png");
-  tail2=loadImage("nyanTailF1.png");
-  tail3=loadImage("nyanTailF1.png");
-  tail4=loadImage("nyanTailF1.png");
-  tail5=loadImage("nyanTailF1.png");
+  tail2=loadImage("nyanTailF2.png");
+  tail3=loadImage("nyanTailF3.png");
+  tail4=loadImage("nyanTailF4.png");
+  tail5=loadImage("nyanTailF5.png");
   bomber=loadImage("bomber.png");
   plane2=loadImage("plane2.png");
   plane4=loadImage("plane4.png");
